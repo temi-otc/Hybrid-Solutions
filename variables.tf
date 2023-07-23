@@ -178,11 +178,11 @@ variable "VM-name3" {
 
 variable "user-name" {
   type    = string
-  default = "temi"
+  default = "vmtest"
 }
 
 variable "password" {
   type    = string
-  default = "Olanike@1973"
+  default = "azurevm123"
 }
 
